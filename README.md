@@ -1,7 +1,7 @@
 # Projects_Python
-##Analyzing Economic Census
-
-##Classifying Handwritten Digits
+## Analyzing Economic Census
+US Census Bureau
+## Classifying Handwritten Digits
 kNN Algorithm
-##Classifying Texts
+## Classifying Texts
 Naive Bayes Theorem
